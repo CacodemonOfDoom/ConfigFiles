@@ -1,0 +1,112 @@
+10:25:07.682: Platform: Wayland
+10:25:07.682: CPU Name: 11th Gen Intel(R) Core(TM) i5-11400F @ 2.60GHz
+10:25:07.682: CPU Speed: 4245.481MHz
+10:25:07.682: Physical Cores: 6, Logical Cores: 12
+10:25:07.682: Physical Memory: 31967MB Total, 16352MB Free
+10:25:07.682: Kernel Version: Linux 6.6.32
+10:25:07.682: Distribution: NixOS "24.11"
+10:25:07.682: Desktop Environment: Hyprland ()
+10:25:07.682: Session Type: wayland
+10:25:07.684: Qt Version: 6.7.1 (runtime), 6.7.1 (compiled)
+10:25:07.684: Portable mode: false
+10:25:07.702: OBS 30.1.2 (linux)
+10:25:07.702: ---------------------------------
+10:25:07.702: ---------------------------------
+10:25:07.702: audio settings reset:
+10:25:07.702: 	samples per sec: 48000
+10:25:07.702: 	speakers:        2
+10:25:07.702: 	max buffering:   960 milliseconds
+10:25:07.702: 	buffering type:  dynamically increasing
+10:25:07.711: ---------------------------------
+10:25:07.711: Initializing OpenGL...
+10:25:07.711: Using EGL/Wayland
+10:25:07.748: Initialized EGL 1.5
+10:25:07.760: Loading up OpenGL on adapter AMD AMD Radeon RX 6650 XT (radeonsi, navi23, LLVM 17.0.6, DRM 3.54, 6.6.32)
+10:25:07.760: OpenGL loaded successfully, version 4.6 (Core Profile) Mesa 24.0.7, shading language 4.60
+10:25:07.785: ---------------------------------
+10:25:07.785: video settings reset:
+10:25:07.785: 	base resolution:   1920x1080
+10:25:07.785: 	output resolution: 1280x720
+10:25:07.785: 	downscale filter:  Bicubic
+10:25:07.785: 	fps:               30/1
+10:25:07.785: 	format:            NV12
+10:25:07.785: 	YUV mode:          Rec. 709/Partial
+10:25:07.785: NV12 texture support enabled
+10:25:07.785: P010 texture support not available
+10:25:07.786: Audio monitoring device:
+10:25:07.786: 	name: Default
+10:25:07.786: 	id: default
+10:25:07.786: ---------------------------------
+10:25:07.814: No AJA devices found, skipping loading AJA UI plugin
+10:25:07.814: Failed to initialize module 'aja-output-ui.so'
+10:25:07.838: No AJA devices found, skipping loading AJA plugin
+10:25:07.838: Failed to initialize module 'aja.so'
+10:25:07.850: Failed to load 'en-US' text for module: 'decklink-captions.so'
+10:25:07.863: Failed to load 'en-US' text for module: 'decklink-output-ui.so'
+10:25:07.874: A DeckLink iterator could not be created.  The DeckLink drivers may not be installed
+10:25:07.874: Failed to initialize module 'decklink.so'
+10:25:08.091: [pipewire] No captures available
+10:25:08.119: v4l2loopback not installed, virtual camera disabled
+10:25:08.136: [obs-browser]: Version 2.23.4
+10:25:08.136: [obs-browser]: CEF Version 121.0.6167.184 (runtime), 121.3.13+g5c4a81b+chromium-121.0.6167.184 (compiled)
+10:25:08.213: VAAPI: API version 1.21
+10:25:08.214: FFmpeg VAAPI H264 encoding supported
+10:25:08.219: FFmpeg VAAPI AV1 encoding not supported
+10:25:08.225: FFmpeg VAAPI HEVC encoding supported
+10:25:08.386: [obs-websocket] [obs_module_load] you can haz websockets (Version: 5.4.2 | RPC Version: 1)
+10:25:08.386: [obs-websocket] [obs_module_load] Qt version (compile-time): 6.7.1 | Qt version (run-time): 6.7.1
+10:25:08.386: [obs-websocket] [obs_module_load] Linked ASIO Version: 102400
+10:25:08.389: [obs-websocket] [obs_module_load] Module loaded.
+10:25:08.447: [vlc-video]: VLC 3.0.20 Vetinari found, VLC video source enabled
+10:25:08.459: ---------------------------------
+10:25:08.459:   Loaded Modules:
+10:25:08.459:     linux-pipewire-audio.so
+10:25:08.459:     vlc-video.so
+10:25:08.459:     text-freetype2.so
+10:25:08.459:     rtmp-services.so
+10:25:08.459:     obs-x264.so
+10:25:08.459:     obs-websocket.so
+10:25:08.459:     obs-webrtc.so
+10:25:08.459:     obs-vst.so
+10:25:08.459:     obs-transitions.so
+10:25:08.459:     obs-qsv11.so
+10:25:08.459:     obs-outputs.so
+10:25:08.459:     obs-libfdk.so
+10:25:08.459:     obs-filters.so
+10:25:08.459:     obs-ffmpeg.so
+10:25:08.459:     obs-browser.so
+10:25:08.459:     linux-v4l2.so
+10:25:08.459:     linux-pulseaudio.so
+10:25:08.459:     linux-pipewire.so
+10:25:08.459:     linux-jack.so
+10:25:08.459:     linux-capture.so
+10:25:08.459:     linux-alsa.so
+10:25:08.459:     image-source.so
+10:25:08.459:     frontend-tools.so
+10:25:08.459:     decklink-output-ui.so
+10:25:08.459:     decklink-captions.so
+10:25:08.459: ---------------------------------
+10:25:08.459: ==== Startup complete ===============================================
+10:25:08.494: All scene data cleared
+10:25:08.494: ------------------------------------------------
+10:25:08.497: pulse-input: Server name: 'PulseAudio (on PipeWire 1.0.6) 15.0.0'
+10:25:08.497: pulse-input: Audio format: float32le, 48000 Hz, 2 channels
+10:25:08.497: pulse-input: Started recording from 'easyeffects_sink.monitor' (default)
+10:25:08.497: [Loaded global audio device]: 'Desktop Audio'
+10:25:08.498: pulse-input: Server name: 'PulseAudio (on PipeWire 1.0.6) 15.0.0'
+10:25:08.498: pulse-input: Audio format: s16le, 48000 Hz, 2 channels
+10:25:08.498: pulse-input: Started recording from 'alsa_input.usb-C-Media_Electronics_Inc._USB_Advanced_Audio_Device-00.analog-stereo' (default)
+10:25:08.498: [Loaded global audio device]: 'Mic/Aux'
+10:25:08.501: [pipewire] Created stream 0x39d9250
+10:25:08.501: Switched to scene 'Scene'
+10:25:08.502: ------------------------------------------------
+10:25:08.502: Loaded scenes:
+10:25:08.502: - scene 'Scene':
+10:25:08.502:     - source: 'Application Audio Capture (PipeWire)' (pipewire_audio_application_capture)
+10:25:08.502: ------------------------------------------------
+10:25:08.506: [pipewire] Created app capture sink 162 with 2 channels and position FL,FR
+10:25:08.525: [pipewire] 0x39d9250 Got format: rate 48000 - channels 2 - format 8
+10:25:08.535: adding 21 milliseconds of audio buffering, total audio buffering is now 21 milliseconds (source: Application Audio Capture (PipeWire))
+10:25:08.535: 
+10:31:29.399: adding 21 milliseconds of audio buffering, total audio buffering is now 42 milliseconds (source: Mic/Aux)
+10:31:29.399: 
